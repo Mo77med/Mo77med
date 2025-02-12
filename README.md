@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A Backend Development from Sudan</h3>
+<h3 align="center">A Software Engineer and Backend Development from Sudan</h3>
 
 - 📫 How to reach me **mr.mohmmed606@gmail.com**
 
